@@ -22,7 +22,6 @@
 
 - 📊 Machine learning and data science are my passions. I enjoy honing my skills on [Kaggle platform](https://www.kaggle.com/), where I participate in various competitions. You can see my achievements on [my Kaggle profile](https://www.kaggle.com/cemduru/competitions?tab=completed)
 
-
 - I have completed Data Scientist Career Path at [Codecademy](https://www.codecademy.com/profiles/icemduru/certificates/5b520caa1d176d21f5a65a61). Where I learned:
   - How to acquire, manipulate, wrangle, and tidy data using SQL and Python.
   - How to visualize data using matplotlib, seaborn, and plotly.
