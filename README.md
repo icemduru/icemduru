@@ -11,6 +11,11 @@
   - [Web genome viewer of Listeria](https://icemduru.github.io/listeria_ro15_transcript/)
   - [Gene network of Listeria](https://icemduru.github.io/RO15_gene_network/#/)
 
+- Do you need to trim adapter+barcode sequences from your Pacbio HiFi reads ?
+  - Then, use my python based bioinformatics tool [HiFiAdapterTrimmer](https://github.com/icemduru/HiFiAdapterTrimmer)
+
+- Check my scientific papers at my [Google scholar profile](https://scholar.google.com/citations?user=2PvKi2YAAAAJ&hl)
+
 <!--
 **icemduru/icemduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
