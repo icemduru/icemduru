@@ -20,7 +20,15 @@
 ### 💻 About Me (Tech Enthusiast Me)
 - 🌱 I’m currently learning Full Stack development via [FullStackOpen](https://fullstackopen.com/en/) course. Follow my progress, and check my exercises at [my exercises github repository](https://github.com/icemduru/fullstackopen_exercises).
 
-- 📊 Machine learning and data science are my passions. I enjoy honing my skills on [Kaggle platform](https://www.kaggle.com/), where I participate in various competitions. You can see my achievements on [my Kaggle profile](https://www.kaggle.com/cemduru/competitions?tab=complet
+- 📊 Machine learning and data science are my passions. I enjoy honing my skills on [Kaggle platform](https://www.kaggle.com/), where I participate in various competitions. You can see my achievements on [my Kaggle profile](https://www.kaggle.com/cemduru/competitions?tab=completed)
 
 
-- I have completed Data Scientist Career Path at [Codecademy](https://www.codecademy.com/profiles/icemduru/certificates/5b520caa1d176d21f5a65a61). Check my codecademy exercises at [my codecademy exercises github repository](https://github.com/icemduru/my_codecademy_exercises).
+- I have completed Data Scientist Career Path at [Codecademy](https://www.codecademy.com/profiles/icemduru/certificates/5b520caa1d176d21f5a65a61). Where I learned:
+  - How to acquire, manipulate, wrangle, and tidy data using SQL and Python.
+  - How to visualize data using matplotlib, seaborn, and plotly.
+  - How to analyze data using pandas, numpy, scipy, and statsmodels.
+  - How to design experiments and test hypotheses using inferential statistics and causal inference.
+  - How to build and evaluate machine learning and deep learning models using scikit-learn, TensorFlow, and Keras.
+  - Check my codecademy exercises at [my codecademy exercises github repository](https://github.com/icemduru/my_codecademy_exercises).
+
+- I’m also interested in cloud computing. In fact, I have recently earned the [Azure AI Fundamentals certification](https://www.credly.com/badges/3a9454bc-77e4-42ca-bc71-3e66805b74d5).
