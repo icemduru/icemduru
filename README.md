@@ -1,7 +1,7 @@
-### Hi I am Ilhan Cem Duru 👋
+### Hi, I am Ilhan Cem Duru 👋
 
 ### 🔭 About Me (Scientist Me)
-- I am a postdoctoral reseach scientist at University of Helsinki.
+- I am a postdoctoral research scientist at University of Helsinki.
 
 - My expertise is cracking the code of tiny life forms. (Genomic and transciptomic data analysis of bacteria and viruses). However,  I have also handled data from human, seal, and butterfly.
 
