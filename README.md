@@ -3,9 +3,9 @@
 ### 🔭 About Me (Scientist Me)
 - I am a postdoctoral research scientist at University of Helsinki.
 
-- My expertise is cracking the code of tiny life forms. (Genomic and transciptomic data analysis of bacteria and viruses). However,  I have also handled data from human, seal, and butterfly.
+- My expertise is cracking the code of tiny life forms. (Genomic and transciptomic data analysis of bacteria and viruses). However,  I have also worked with data from human, seal, and butterfly.
 
-- Currently, I am involved in several projects, with a primary focus on **population genomics for silver birch tree breeding**. We aim to create genomic prediction models for silver birch tree breeding. The model will help to improve breeding efficiency of silver birch trees.
+- Currently, I am involved in several projects with a primary focus on **population genomics for silver birch tree breeding**. We aim to create genomic prediction models for silver birch tree breeding. The model will help to improve breeding efficiency of silver birch trees.
 
 - I love creating interactive web browser-based visualizations for my scientific data. For example;
   - [Web genome viewer of Listeria](https://icemduru.github.io/listeria_ro15_transcript/)
