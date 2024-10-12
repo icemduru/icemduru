@@ -18,7 +18,6 @@
 
 
 ### 💻 About Me (Tech Enthusiast Me)
-- 🌱 I’m currently learning Full Stack development via [FullStackOpen](https://fullstackopen.com/en/) course. Follow my progress, and check my exercises at [my exercises github repository](https://github.com/icemduru/fullstackopen_exercises) dedicated to exercises.
 
 - 📊 Machine learning and data science are my passions. I enjoy sharpening my skills on the [Kaggle platform](https://www.kaggle.com/), where I participate in various competitions. You can see my achievements on [my Kaggle profile](https://www.kaggle.com/cemduru/competitions?tab=completed)
 
